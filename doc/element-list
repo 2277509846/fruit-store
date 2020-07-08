@@ -1,0 +1,8 @@
+com.fjp.controller
+com.fjp.dao
+com.fjp.dao.impl
+com.fjp.entity
+com.fjp.service
+com.fjp.test
+com.fjp.tools
+com.fjp.view
